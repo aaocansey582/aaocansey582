@@ -34,7 +34,7 @@ I'm **Albert A. Ocansey**, a Full-Stack Developer, Data Analyst, and AI Engineer
 ---
 
 ## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaocansey582)](https://github.com/aaocansey582/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
