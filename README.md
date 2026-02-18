@@ -36,6 +36,9 @@ I'm **Albert A. Ocansey**, a Full-Stack Developer, Data Analyst, and AI Engineer
 ## 📊 GitHub Stats
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaocansey582&theme=dracula)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaocansey582&theme=radical)
+
+
 
 
 ## 📫 Let's Connect
