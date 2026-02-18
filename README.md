@@ -1,7 +1,7 @@
 # 👨‍💻 Albert A. Ocansey – Full-Stack Developer | Data & AI Engineer | DevOps Enthusiast
 
-I am a **Full-Stack Developer, Data & AI Engineer, and DevOps enthusiast** with a strong focus on building **scalable, secure, and user-centric applications**.  
-I leverage modern technologies to deliver **robust backend systems, responsive frontends, and data-driven solutions**, while applying DevOps practices to ensure **efficient, automated, and reliable deployment pipelines**.
+Full-Stack Development, Data & AI Engineering, and DevOps expertise focused on building scalable, secure, and user-centric applications.
+Leverages modern technologies to deliver robust backend systems, responsive frontends, and data-driven solutions, while implementing DevOps practices for efficient, automated, and reliable deployment pipelines.
 
 ---
 
