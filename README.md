@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Aamir Aocansey**, a Full-Stack Developer, Data Analyst, and AI Engineer dedicated to building **scalable, user-centric applications** and **data-driven solutions**.  
+I'm **Albert A. Ocansey**, a Full-Stack Developer, Data Analyst, and AI Engineer dedicated to building **scalable, user-centric applications** and **data-driven solutions**.  
 
 ---
 
