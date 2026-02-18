@@ -34,8 +34,9 @@ I'm **Albert A. Ocansey**, a Full-Stack Developer, Data Analyst, and AI Engineer
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaocansey582&show_icons=true&theme=radical)](https://github.com/aaocansey582)
----
+![Aamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaocansey582&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaocansey582&layout=compact&theme=radical)
+
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
