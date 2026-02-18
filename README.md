@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Aamir Aocansey**, a passionate full-stack developer, data enthusiast, and AI engineer focused on building **scalable, user-centric applications** and **data-driven solutions**.
+I'm **Albert A Ocansey**, a passionate full-stack developer, data enthusiast, and AI engineer focused on building **scalable, user-centric applications** and **data-driven solutions**.
 
 ---
 
