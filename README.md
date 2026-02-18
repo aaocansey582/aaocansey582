@@ -1,14 +1,24 @@
-# Hi there 👋
+# 👨‍💻 Albert A. Ocansey – Full-Stack Developer | Data & AI Engineer | DevOps Enthusiast
 
-I'm **Albert A. Ocansey**, a Full-Stack Developer, Data Analyst, and AI Engineer dedicated to building **scalable, user-centric applications** and **data-driven solutions**.  
+I am a **Full-Stack Developer, Data & AI Engineer, and DevOps enthusiast** with a strong focus on building **scalable, secure, and user-centric applications**.  
+I leverage modern technologies to deliver **robust backend systems, responsive frontends, and data-driven solutions**, while applying DevOps practices to ensure **efficient, automated, and reliable deployment pipelines**.
 
 ---
 
-## 🎯 About Me
-- 🔍 Focused on **Full-Stack Development, AI Engineering, Cloud Architecture, and Data Analytics**  
-- 🌱 Continuously learning and expanding expertise in **Machine Learning, Deep Learning, and Cloud-Native DevOps**  
-- 💼 Developing projects that **solve real-world problems** with robust, maintainable code  
-- 🤝 Open to collaboration, mentorship, and contributing to open-source initiatives  
+## 📌 Professional Summary
+- 🔹 Expertise in **Full-Stack Development** using modern frontend and backend frameworks  
+- 🔹 Proficient in **Data Analytics and AI Engineering**: building predictive models, data visualizations, and AI-powered applications  
+- 🔹 Experienced in **Cloud Platforms and DevOps**: Docker, GitHub Actions, AWS, and GCP for automated CI/CD and scalable deployments  
+- 🔹 Passionate about creating **maintainable, modular codebases** and optimizing development workflows  
+- 🔹 Open to **collaboration, mentorship, and contributing to impactful projects**  
+
+---
+
+## 💼 Areas of Focus
+- Full-Stack Web Development: React, Django, Node.js, Express  
+- Data & AI Engineering: Python, Pandas, NumPy, scikit-learn, TensorFlow, PyTorch  
+- Cloud & DevOps: Docker, GitHub Actions, AWS, GCP, CI/CD pipelines  
+- Databases: PostgreSQL, MongoDB  
 
 ---
 
