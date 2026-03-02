@@ -3,7 +3,6 @@
 Full-Stack Development, Data & AI Engineering, and DevOps expertise focused on building scalable, secure, and user-centric applications.
 Leverages modern technologies to deliver robust backend systems, responsive frontends, and data-driven solutions, while implementing DevOps practices for efficient, automated, and reliable deployment pipelines.
 
----
 
 ## 📌 Professional Summary
 - 🔹 Expertise in **Full-Stack Development** using modern frontend and backend frameworks  
@@ -12,7 +11,6 @@ Leverages modern technologies to deliver robust backend systems, responsive fron
 - 🔹 Passionate about creating **maintainable, modular codebases** and optimizing development workflows  
 - 🔹 Open to **collaboration, mentorship, and contributing to impactful projects**  
 
----
 
 ## 💼 Areas of Focus
 - Full-Stack Web Development: React, Django, Node.js, Express  
@@ -20,7 +18,6 @@ Leverages modern technologies to deliver robust backend systems, responsive fron
 - Cloud & DevOps: Docker, GitHub Actions, AWS, GCP, CI/CD pipelines  
 - Databases: PostgreSQL, MongoDB  
 
----
 
 ## 💻 Technical Skills
 
@@ -33,7 +30,6 @@ Leverages modern technologies to deliver robust backend systems, responsive fron
 | **Data & AI** | Pandas, NumPy, Matplotlib, scikit-learn, TensorFlow, PyTorch | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
 | **DevOps & Cloud** | Docker, GitHub Actions, AWS, Terrafrom | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) | [Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
 
----
 
 ## 🚀 Featured Projects
 - **[GWIT Student Portal Backend](https://github.com/aaocansey582/gwit_stdportal_backend)** – Robust backend portal system with Django REST Framework & JWT authentication  
@@ -41,7 +37,6 @@ Leverages modern technologies to deliver robust backend systems, responsive fron
 - **[Sales Analytics Dashboard](https://github.com/aaocansey582/sales-dashboard)** – Python + Pandas for predictive analytics and interactive data visualization  
 - **[AI Chatbot Project](https://github.com/aaocansey582/ai-chatbot)** – NLP-based AI assistant using TensorFlow and PyTorch  
 
----
 
 ## 📊 GitHub Stats
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaocansey582&theme=dracula)
