@@ -1,4 +1,4 @@
-# 👨‍💻 Albert A. Ocansey – Full-Stack Developer | Data & AI Engineer | DevOps Enthusiast
+# 👨‍💻 Albert A. Ocansey – Full-Stack Developer | Devops Engineer | Data and AI Engineering Enthusiast
 
 Full-Stack Development, Data & AI Engineering, and DevOps expertise focused on building scalable, secure, and user-centric applications.
 Leverages modern technologies to deliver robust backend systems, responsive frontends, and data-driven solutions, while implementing DevOps practices for efficient, automated, and reliable deployment pipelines.
@@ -33,9 +33,7 @@ Leverages modern technologies to deliver robust backend systems, responsive fron
 
 ## 🚀 Featured Projects
 - **[GWIT Student Portal Backend](https://github.com/aaocansey582/gwit_stdportal_backend)** – Robust backend portal system with Django REST Framework & JWT authentication  
-- **[BuildMart Frontend](https://github.com/aaocansey582/buildmart-frontend)** – React e-commerce frontend with SCSS, Context API, and responsive design  
-- **[Sales Analytics Dashboard](https://github.com/aaocansey582/sales-dashboard)** – Python + Pandas for predictive analytics and interactive data visualization  
-- **[AI Chatbot Project](https://github.com/aaocansey582/ai-chatbot)** – NLP-based AI assistant using TensorFlow and PyTorch  
+- **[BuildMart Frontend](https://github.com/aaocansey582/buildmart-frontend)** – React e-commerce frontend with SCSS, Context API, and responsive design   
 
 
 ## 📊 GitHub Stats
@@ -47,11 +45,9 @@ Leverages modern technologies to deliver robust backend systems, responsive fron
 
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🐦 [Twitter](https://twitter.com/yourhandle)  
+- 💼 [LinkedIn](https://linkedin.com/in/aaocansey)   
 - 🌐 [Portfolio](https://yourportfolio.com)  
 - 📧 [Email](mailto:your.email@example.com)  
 
----
 
 ⭐ **Feel free to explore my repositories and reach out for collaboration!**
