@@ -8,7 +8,7 @@ Leverages modern technologies to deliver robust backend systems, responsive fron
 ## 📌 Professional Summary
 - 🔹 Expertise in **Full-Stack Development** using modern frontend and backend frameworks  
 - 🔹 Proficient in **Data Analytics and AI Engineering**: building predictive models, data visualizations, and AI-powered applications  
-- 🔹 Experienced in **Cloud Platforms and DevOps**: Docker, GitHub Actions, AWS, and GCP for automated CI/CD and scalable deployments  
+- 🔹 Experienced in **Cloud Platforms and DevOps**: Docker, GitHub Actions, AWS, and Terraform for automated CI/CD and scalable deployments  
 - 🔹 Passionate about creating **maintainable, modular codebases** and optimizing development workflows  
 - 🔹 Open to **collaboration, mentorship, and contributing to impactful projects**  
 
@@ -31,7 +31,7 @@ Leverages modern technologies to deliver robust backend systems, responsive fron
 | **Backend** | Django, DRF, Node.js, Express | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-092E20?logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) |
 | **Databases** | PostgreSQL, MongoDB | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
 | **Data & AI** | Pandas, NumPy, Matplotlib, scikit-learn, TensorFlow, PyTorch | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
-| **DevOps & Cloud** | Docker, GitHub Actions, AWS, GCP | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-F9AB00?logo=google-cloud&logoColor=white) |
+| **DevOps & Cloud** | Docker, GitHub Actions, AWS, Terrafrom | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-F9AB00?logo=google-cloud&logoColor=white) |
 
 ---
 
