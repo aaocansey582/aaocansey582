@@ -5,7 +5,7 @@ Full-Stack Development, Data & AI Engineering, and DevOps expertise focused on b
 Leverages modern technologies to deliver robust backend systems, responsive frontends, and data-driven solutions, while implementing DevOps practices for efficient, automated, and reliable deployment pipelines.
 
 
-## 📌 Professional Summary
+## Professional Summary
 - 🔹 Expertise in **Full-Stack Development** using modern frontend and backend frameworks  
 - 🔹 Proficient in **Data Analytics and AI Engineering**: building predictive models, data visualizations, and AI-powered applications  
 - 🔹 Experienced in **Cloud Platforms and DevOps**: Docker, GitHub Actions, AWS, and Terraform for automated CI/CD and scalable deployments  
@@ -13,14 +13,14 @@ Leverages modern technologies to deliver robust backend systems, responsive fron
 - 🔹 Open to **collaboration, mentorship, and contributing to impactful projects**  
 
 
-## 💼 Areas of Focus
+## Areas of Focus
 - Full-Stack Web Development: React, Django, Node.js, Express  
 - Data & AI Engineering: Python, Pandas, NumPy, scikit-learn, TensorFlow, PyTorch  
 - Cloud & DevOps: Docker, GitHub Actions, AWS, GCP, CI/CD pipelines  
 - Databases: PostgreSQL, MongoDB  
 
 
-## 💻 Technical Skills
+## Technical Skills
 
 | Category | Skills | Badges |
 |----------|--------|--------|
@@ -32,12 +32,12 @@ Leverages modern technologies to deliver robust backend systems, responsive fron
 | **DevOps & Cloud** | Docker, GitHub Actions, AWS, Terrafrom | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) | [Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
 
 
-## 🚀 Featured Projects
+## Featured Projects
 - **[GWIT Student Portal Backend](https://github.com/aaocansey582/gwit_stdportal_backend)** – Robust backend portal system with Django REST Framework & JWT authentication  
 - **[BuildMart Frontend](https://github.com/aaocansey582/buildmart-frontend)** – React e-commerce frontend with SCSS, Context API, and responsive design   
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaocansey582&theme=dracula)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaocansey582&theme=radical)
@@ -45,7 +45,7 @@ Leverages modern technologies to deliver robust backend systems, responsive fron
 
 
 
-## 📫 Let's Connect
+## Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/aaocansey)   
 - 🌐 [Portfolio](https://yourportfolio.com)  
 - 📧 [Email](mailto:your.email@example.com)  
