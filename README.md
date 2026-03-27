@@ -2,11 +2,11 @@
 Full-Stack Developer | Devops Engineer | Data and AI Engineering Enthusiast
 
 ## Professional Summary
-- 🔹 Expertise in **Full-Stack Development** using modern frontend and backend frameworks  
-- 🔹 Proficient in **Data Analytics and AI Engineering**: building predictive models, data visualizations, and AI-powered applications  
-- 🔹 Experienced in **Cloud Platforms and DevOps**: Docker, GitHub Actions, AWS, and Terraform for automated CI/CD and scalable deployments  
-- 🔹 Passionate about creating **maintainable, modular codebases** and optimizing development workflows  
-- 🔹 Open to **collaboration, mentorship, and contributing to impactful projects**  
+- Expertise in **Full-Stack Development** using modern frontend and backend frameworks  
+- Proficient in **Data Analytics and AI Engineering**: building predictive models, data visualizations, and AI-powered applications  
+- Experienced in **Cloud Platforms and DevOps**: Docker, GitHub Actions, AWS, and Terraform for automated CI/CD and scalable deployments  
+- Passionate about creating **maintainable, modular codebases** and optimizing development workflows  
+- Open to **collaboration, mentorship, and contributing to impactful projects**  
 
 
 ## Areas of Focus
